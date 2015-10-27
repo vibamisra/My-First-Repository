@@ -1,3 +1,3 @@
 # My-First-Repository
-Getting to know GIY better
+Getting to know GIT better
 hello world !!!
